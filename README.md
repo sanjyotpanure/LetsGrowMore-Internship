@@ -11,16 +11,16 @@ We need to read the image in RBG format and then convert it to a grayscale image
      <td>Converted to grey scale image</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/sanjyotpanure/LetsGrowMore-Internship/blob/main/images/Original_Image.png" width=600 height=300></td>
-    <td><img src="https://github.com/sanjyotpanure/LetsGrowMore-Internship/blob/main/images/Grey_Scale_Image.png" width=600 height=300></td>
+    <td><img src="https://github.com/sanjyotpanure/LetsGrowMore-Internship/blob/main/images/Original_Image.png" width=600></td>
+    <td><img src="https://github.com/sanjyotpanure/LetsGrowMore-Internship/blob/main/images/Grey_Scale_Image.png" width=600></td>
   </tr>
   <tr align="center">
     <td>Inverting the grey scale image</td>
      <td>Output Image - Pencil Sketch</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/sanjyotpanure/LetsGrowMore-Internship/blob/main/images/Invert_Grey_Scale.png" width=600 height=300></td>
-    <td><img src="https://github.com/sanjyotpanure/LetsGrowMore-Internship/blob/main/images/Output_Image_Pencil_Sketch.png" width=600 height=300></td>
+    <td><img src="https://github.com/sanjyotpanure/LetsGrowMore-Internship/blob/main/images/Invert_Grey_Scale.png" width=600></td>
+    <td><img src="https://github.com/sanjyotpanure/LetsGrowMore-Internship/blob/main/images/Output_Image_Pencil_Sketch.png" width=600></td>
   </tr>
 </table>
 
